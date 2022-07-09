@@ -16,6 +16,7 @@
 .heroImage {
     position: absolute;
     top: 0px;
+    right: 0px;
     z-index: 1;
 }
 
@@ -63,6 +64,9 @@
     }
     .cardLayout {
         grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .heroImage {
+        top: 0;
     }
 }
 

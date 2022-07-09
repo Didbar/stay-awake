@@ -37,6 +37,7 @@
 
 .button {
     background-color: var(--text-purple-dark);
+    font-family: 'Edu SA Beginner', cursive;
     cursor: pointer;
     color: white;
     outline: 0;
